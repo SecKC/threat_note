@@ -1,5 +1,5 @@
 <p align="center">
-<img src="http://i.imgur.com/4keZTGz.png"></p>
+<img src="https://raw.githubusercontent.com/SecKC/Web/master/images/logo/SecKC_Hex_OnlyB.png"></p>
 
 ### Disclaimer
 
